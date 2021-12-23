@@ -1,0 +1,19 @@
+section,
+ .filter {
+    display: flex;
+    flex-direction: column;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+#flex-row {
+    display: flex;
+    justify-content: space-between;
+}
